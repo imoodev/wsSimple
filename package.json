@@ -1,4 +1,11 @@
 {
+  "name": "api-make",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "ws": "^8.16.0"
   }
